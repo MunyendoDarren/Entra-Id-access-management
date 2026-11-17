@@ -1,0 +1,6 @@
+Alias,DisplayName,Department,JobTitle,Groups
+amina.otieno,Amina Otieno,Finance,Accountant,SG-Finance-Users
+brian.kamau,Brian Kamau,IT,Helpdesk Technician,SG-IT-Helpdesk
+cynthia.wanjiru,Cynthia Wanjiru,HR,HR Officer,SG-HR-Users
+david.mwangi,David Mwangi,Security,Security Analyst,SG-Security-Team;SG-IT-Helpdesk
+esther.njeri,Esther Njeri,Finance,Finance Manager,SG-Finance-Users
